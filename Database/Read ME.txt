@@ -1,0 +1,5 @@
+1-The code and other material is Personal property of Abdullah Rafi
+-------------------How to use
+Install Sql,laravel,composer 
+import database 
+Run project
